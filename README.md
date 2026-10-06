@@ -542,7 +542,7 @@ Install:
 ## Clone Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/rahul-sharma-sh/caprae-acquisition-intelligence
 cd caprae-acquisition-intelligence
 ```
 
@@ -639,7 +639,7 @@ For production deployment, the frontend API URL should be configurable through a
 Example:
 
 ```env
-VITE_API_URL=https://your-backend-url.com/api
+VITE_API_URL=https://caprae-acquisition-intelligence.onrender.com/api
 ```
 
 The backend should similarly use environment variables for:
@@ -756,9 +756,18 @@ Add secure user authentication and role-based access for investment teams.
 
 # 20. Demo Video
 
-Demo video:
+Project Links
+Live Demo
 
-**[ADD VIDEO LINK HERE]**
+https://caprae-acquisition-intelligence.vercel.app/
+
+GitHub Repository
+
+https://github.com/rahul-sharma-sh/caprae-acquisition-intelligence
+
+Demo Video
+
+https://drive.google.com/file/d/1aEo6kEbOv40cJAvaTUL3TnTGiv_XPinX/view?usp=sharing
 
 The demo covers:
 
